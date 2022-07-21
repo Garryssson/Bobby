@@ -5,6 +5,7 @@
 	display: flex;
 	justify-content: space-between;
 	
+	
 }
 
 .photo {
@@ -16,5 +17,5 @@
 .btn {
 	width: 200px;
 	height: 100px;
-	font-size: 30px;
+	font-size: 30px !important;
 }
